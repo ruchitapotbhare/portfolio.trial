@@ -3,11 +3,11 @@
 <i>she/her</i>
 
 [![Mastodon: @ruchi@blackshuck.net](https://img.shields.io/mastodon/follow/109277165387470582?domain=https%3A%2F%2Fblackshuck.net&style=social&link=https://blackshuck.net/@shriker)](https://blackshuck.net/@shriker)
-[![LinkedIn: shriker](https://img.shields.io/badge/-jodiestruthers-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jodiestruthers/)](https://www.linkedin.com/in/jodiestruthers/)
+[![LinkedIn: shriker](https://img.shields.io/badge/-jodiestruthers-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruchitapotbhare/)](https://www.linkedin.com/in/ruchitapotbhare/)
 
 <table border="0" width="100%" padding="0" margin="0"><tr><td valign="top">
 
-## 📝 latest from [shriker.ca](http://shriker.ca)
+## 📝 latest from ruchitapotbhare
 
 <!-- blog starts -->
 * [Indoor Wood Dado Rail/Ledge Restoration](https://shriker.ca/indoor-wood-dado-rail-ledge-restoration/) - 2021/08/19
@@ -17,7 +17,7 @@
 * [Silos and How They Impede Productivity](https://shriker.ca/silos-how-they-impede-productivity/) - 2020/08/13
 <!-- blog ends -->
 
-</td><td valign="top">
+</td><td valign="top"> 
 
 ## 🐚 communities
 
